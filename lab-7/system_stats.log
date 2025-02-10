@@ -1,0 +1,6 @@
+Timestamp: 2025-02-11 01:29:08
+Uptime: 1:29  up  1:50, 2 users, load averages: 1.03 1.25 1.49
+Disk Usage:
+Filesystem        Size    Used   Avail Capacity iused ifree %iused  Mounted on
+/dev/disk3s1s1   460Gi    10Gi   284Gi     4%    412k  3.0G    0%   /
+----------------------------------------
