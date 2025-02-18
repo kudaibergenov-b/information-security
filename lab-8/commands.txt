@@ -1,0 +1,31 @@
+Hi, world!
+This is a new line
+For demonstration purposes.
+For demonstration purposes.
+
+-------------
+
+gg -> beginning of the file
+G -> end of the file
+j -> go one line down
+k - go one line up
+
+-------------
+
+0 - beginning of the line
+cw - delete the word and enter Insert mode
+o - add one line below
+O - add new line above
+
+-------------
+
+yy - copy the line
+p - paste the copied
+dd - delete the line
+u - cancel an action
+
+-------------
+
+q! - exit without saving
+:%s/word - search a word(pattern)
+:%s/word/WORD/g - find a word and replace it with other
